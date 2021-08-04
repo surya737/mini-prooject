@@ -1,0 +1,2 @@
+# mini-prooject
+text summarization
