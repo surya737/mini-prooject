@@ -1,4 +1,4 @@
-# mini-prooject
+# mini-project
 text summarization
 from flask import Flask, render_template,request
 import requests
